@@ -1,0 +1,43 @@
+.textf{
+    width: 100%;
+  height: 50;
+  justify-content: center;
+  align-self: center;
+  position: absolute;
+  bottom: 0; 
+    
+}
+.listgroup{
+    cursor: pointer;
+}
+.lisgro:hover{
+    background-color: cadetblue;
+    color: whitesmoke;
+}
+.lisgro{
+    border-right: 0;
+
+}
+.listgro1{
+    border-right: 0;
+}
+.messagecard
+{
+    position: absolute;
+    width: 95%;
+    height: 85%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.leftcol{
+    width: 100%;
+    height: 100%;
+    border-right: 2px solid steelblue;
+    margin: 0;
+    padding: 0;
+}
+.rightcol{
+  
+    width: 100%;
+    height: 100%;
+}
